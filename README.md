@@ -9,17 +9,19 @@ A new startup business in North America has recruited you to help with the launc
 
 <h2>Solution Overview</h2>
 
-- <b>Create an S3 Bucket and enable static website hosting
-- Grant permission to bucket to allow public access and read access to everyone
-- Upload HTML code for web site
-- View the website using the bucket endpoint created</b> 
+- <b>Register a domain name (if you don't have one)
+- Create an S3 bucket to host your website
+- Link the S3 website to the domain name
+
 
 
 <h2>Detailed Steps:</h2>
 
 <p align="center">
 
-Navigate to the “S3" resource on AWS
+Open Route 53
+
+If you don't have a domain name registered, register a domain name using these steps https://aws.amazon.com/getting-started/hands-on/get-a-domain/ (Note that this cost $12 per year in the US). If you have a Domain name registered, skip to step 3.
 
 Select "Create Bucket" and give the bucket a name: <br/>
 <img src="https://i.imgur.com/vGXPAML.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
