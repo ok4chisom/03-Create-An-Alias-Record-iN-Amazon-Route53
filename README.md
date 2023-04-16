@@ -33,7 +33,7 @@ Select "Hosted zones": <br/>
 <br />
 <br />
 Select your created "Hosted zone name" and select "Create record":  <br/>
-<img src="hhttps://i.imgur.com/iusXmTn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iusXmTn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Choose your record name (should be same the as your S3 bucket)
@@ -45,7 +45,7 @@ Select Alias to S3 website Endpoint
 Select your S3 bucket
 
 Select your routing policy (in this case I used the Simple routing policy):  <br/>
-<img src="https://i.imgur.com/ezN9iyq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Saj0Exw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
